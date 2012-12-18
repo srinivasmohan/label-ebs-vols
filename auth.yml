@@ -1,0 +1,6 @@
+---
+:regions:
+- us-east-1
+- us-west-1
+:aws_access_key_id: ZZZZZZZZZZZZZZZZZZZZ
+:aws_secret_access_key: '0000000000000000000000000000000000000000'
